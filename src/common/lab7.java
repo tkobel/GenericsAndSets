@@ -22,6 +22,10 @@ public class lab7 {
         treeSet.add(e2);
         treeSet.add(e3);
         treeSet.add(e4);
+        
+        for(Object e : treeSet) {
+            System.out.println((Employee)e);
+        }
     }
     
 }
