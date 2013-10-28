@@ -14,7 +14,7 @@ public class lab4 {
         List<Employee> list = new ArrayList<Employee>();
         Employee e1 = new Employee("Brady", "Tom", "111-11-1111");
         Employee e2 = new Employee("Rodgers", "Aaron", "555-55-5555");
-        Employee e3 = new Employee("Dalton", "Andy", "1111-11-1111");
+        Employee e3 = new Employee("Dalton", "Andy", "111-11-1111");
         Employee e4 = new Employee("Brees", "Drew", "777-77-7777");
         
         list.add(e1);

@@ -7,10 +7,10 @@ public class Employee {
     private String firstName;
     private String ssn;
 
-    public Employee(String lastName, String firstName, String id) {
+    public Employee(String lastName, String firstName, String ssn) {
         this.lastName = lastName;
         this.firstName = firstName;
-        this.ssn = id;
+        this.ssn = ssn;
     }
 
     public String getSsn() {
